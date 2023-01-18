@@ -1,0 +1,56 @@
+.navcol {
+	background-color: black;
+  margin-top: 0px;
+}
+
+.logo{
+  
+  display: block;
+  margin: auto;
+  width: 15%;
+  height: 15%;
+   }
+
+ul li{
+	margin: 10px;
+}
+
+body{
+	background-color: #1b1b1b;
+}
+.subarea{
+	margin-top: 50px;
+}
+
+
+
+.freetrail {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+   }
+
+ hr {
+ 	width: 100%;
+    position: relative;
+    border: none;
+    border-bottom: 2px solid deeppink;
+    margin-bottom: 50px;
+ }
+
+ img {
+  
+  display: block;
+  margin-top: 50px;
+  margin-right: auto;
+  width: 100%;
+ 
+   }
+footer {
+	background-color: black;
+	text-align: center;
+	height: 100px;
+	padding-top: 20px;
+ }
